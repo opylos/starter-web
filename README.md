@@ -18,5 +18,7 @@ Some deployment, yes
 
 ## How To Contribute
 
+Ways to contribute
+
 ### Copyright
 Copyright
