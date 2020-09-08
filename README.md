@@ -9,9 +9,11 @@ Some introduction.
 
 ## Purpose
 
-blahblahblah
+blahblahblahblah
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Some deployment, yes
 
 ## How To Contribute
