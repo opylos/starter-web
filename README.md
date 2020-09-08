@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 Some deployment, yes
 
 ## How To Contribute
+
+### Copyright
+Copyright
