@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Some deployment, yes
+Some deployment, yes. All rights reserved.
 
 ## How To Contribute
 
